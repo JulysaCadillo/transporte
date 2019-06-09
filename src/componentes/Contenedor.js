@@ -10,9 +10,7 @@ const Contenedor = () => (
         <TipoTransporte></TipoTransporte>
         <PreciosTransporte></PreciosTransporte>
         </div>
-     <div> 
-         
-         </div>   
+      
     </div>
 
 
